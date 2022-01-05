@@ -1,0 +1,203 @@
+*{margin: 0; padding: 0; box-sizing:border-box;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.bodystyle{
+   width: 90%;
+   margin: 0 auto;
+}
+.logo1{
+    width: 130px;
+}
+.fa-user-circle{
+    font-size: 22px;
+    padding-top:2px;
+}
+.navbar-nav li{
+    font-weight: lighter;
+    padding: 0 3px;
+    padding-top: 3px;
+    font-size: 15px;
+}
+.sidelinks{
+    padding-left: 290px;
+}
+.one li{
+    font-weight: lighter;
+}
+.carousel-item{
+    position: relative;
+    z-index: 1;
+}
+.carousel-caption{
+    position: absolute;
+    top: 30%;
+    left: 06%!important;
+}
+.button{
+    position: absolute;
+    text-align: left;
+    left: 0;
+    border-radius: 0;
+    top: 130px;
+} 
+.button:hover{
+    cursor: pointer;
+    text-decoration: underline;
+    font-size: 18px;
+    background-color: rgb(255, 255, 255);
+    transition:.5s;
+}
+.btton{
+    position: absolute;
+    left: 0;
+    top: -15px;
+    border-radius: 0;
+    /* text-align: bottom; */
+}
+.carousel-caption h3{
+    text-align: left;
+}
+.carousel-caption p{
+    text-align: left;
+    position: absolute;
+    top: 63px;
+}
+main{
+    margin: 40px 0px;
+}
+.card{
+    border:none !important;
+    padding: 0 30px 0 0;
+}
+.right{
+    font-weight: bolder;
+}
+.kaif{
+    font-weight: 600;
+}
+.card-body{
+  padding:5px 0 !important;
+}
+.btn-dark{
+   padding: 5px 15px;
+   background-color: black;
+}
+.btn-dark:hover{
+    cursor: pointer;
+    text-decoration: underline;
+    padding: 5px 20px;
+    background-color: black;
+    transition:.5s;
+}
+.outlook{
+    height: 404px;
+    width: 100%;
+    background-image: url('images/bg\ outlook.jpg');
+    background-repeat: no-repeat;
+    background-size: auto;
+    margin: 20px 0;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-left: 64px;
+    
+}
+
+.covid{
+    background-color: #E9E9E9;
+    height: 138px;
+
+}
+.covid{
+    position: relative;
+}
+.covid a{
+    position: absolute;
+    top: 95px;
+    left: 45%;
+}
+.covid a:hover{
+    text-decoration: underline !important;
+    color: black;
+}
+.covidd{
+    color: #000;
+    padding-bottom: 10px;
+}
+.social{
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+.fa-linkedin{
+    color: #0177B5;
+    
+}
+.fa-facebook-square{
+    color: #3B5499;
+}
+.fa-twitter-square{
+    color: #4C9BD6;
+}
+
+.foot{
+    font-size: 12px;
+}
+
+.bg{
+    background-color: #f2f2f2;
+    padding: 20px 30px;
+}
+.foot p{
+    color: #818181;
+}
+.cc{
+    font-weight: lighter;
+}
+.lan{
+    color: #818181;
+    font-size: 15px;
+    font-weight: 300;
+}
+.Z{
+    color: #818181;
+    display: flex;
+    font-weight:lighter ;
+    padding-top:48px ;
+    font-size: 13px;
+    padding-left: 230px;
+}
+
+.fa-chevron-right{
+    color:#0A58CA;
+}
+.muted{
+    color: gray;
+}
+.mmuted{
+  color: #000;
+}
+
+
+
+
+
+/* .outlook{
+    position: relative;
+}
+.outlook h3{
+     position: absolute;
+     top: 140px;
+     left: 64px;
+}
+.outlook button{
+    position: absolute;
+    top: 222px;
+    left: 64px;
+}
+.outlook p{
+    position: absolute;
+    top: 182px;
+    left: 64px;
+} */
